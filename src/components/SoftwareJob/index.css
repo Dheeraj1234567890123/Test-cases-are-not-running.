@@ -1,0 +1,25 @@
+.engineer-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  background-color: #475569;
+  height: 15vh;
+  width: 60vh;
+}
+.company-card {
+  display: flex;
+}
+.company-image {
+  height: 20px;
+}
+.location-card {
+  display: flex;
+}
+.heading {
+  color: white;
+  font-size: 14px;
+}
+.paragraph {
+  color: white;
+  font-size: 14px;
+}
